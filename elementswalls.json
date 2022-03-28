@@ -1,0 +1,17 @@
+[
+  {
+    "name": "1",
+    "author": "Adil Janbyrbayev",
+    "url": "https://www.example.com/first-wallpaper.png"
+  },
+  {
+    "name": "2",
+    "author": "Bogdan Pasca",
+    "url": "https://www.example.com/second-wallpaper.png"
+  },
+  {
+    "name": "3",
+    "author": "Kristaps Ungurs",
+    "url": "https://www.example.com/third-wallpaper.png"
+  }
+]
