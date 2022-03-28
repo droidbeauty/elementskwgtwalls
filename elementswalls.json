@@ -2,16 +2,21 @@
   {
     "name": "1",
     "author": "Adil Janbyrbayev",
-    "url": "https://www.example.com/first-wallpaper.png"
+    "url": "https://raw.githubusercontent.com/droidbeauty/elementskwgtwalls/main/1.jpg"
   },
   {
     "name": "2",
     "author": "Bogdan Pasca",
-    "url": "https://www.example.com/second-wallpaper.png"
+    "url": "https://raw.githubusercontent.com/droidbeauty/elementskwgtwalls/main/2.jpg"
   },
   {
     "name": "3",
     "author": "Kristaps Ungurs",
-    "url": "https://www.example.com/third-wallpaper.png"
+    "url": "https://raw.githubusercontent.com/droidbeauty/elementskwgtwalls/main/3.jpg"
+  },
+  {
+    "name": "4",
+    "author": "Sam MgrDichian",
+    "url": "https://raw.githubusercontent.com/droidbeauty/elementskwgtwalls/main/4.jpg"
   }
 ]
